@@ -1,0 +1,23 @@
+ADD_END 1
+PRINT
+del 1
+print
+add_start 1
+print
+del 1
+print
+add_start 1
+print
+add_end 2
+print
+add_after 3 2
+print
+add_after 9 1
+print
+add_end 4
+print
+add_Start 0
+print
+del 4
+print
+exit
